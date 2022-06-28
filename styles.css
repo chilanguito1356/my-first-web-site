@@ -5,9 +5,9 @@ body {
 
 
 header {
-    background: linear-gradient(rgba(84,93,220,.8), rgba(96,171,245,.7)),
-    url(../imagenes/imagen-de-background.jpg);
-    height: 100vh;
+    background: 
+    url(./imagenes/fondo2.gif);
+  height: 120px;
     background-size: cover;
 }
 
@@ -172,7 +172,8 @@ h2 {
 /********** aqui empieza el footer *************/
 
 footer {
-    background: #737373;
+     background: 
+ url(./imagenes/fondo2.gif);
     padding: 40px;
     text-align: center;
     margin-top: 40px;
